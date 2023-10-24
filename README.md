@@ -22,7 +22,8 @@
 ## 진행과정
 <img src="https://github.com/owenchoi96/templates/assets/123911225/5de532d3-7df3-4136-9420-662db6841a98" width="400" height="250"/>
 
-먼저 function test() {
+먼저 
+function test() {
   console.log("notice the blank line before this function?");
 }
 

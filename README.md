@@ -1,6 +1,8 @@
 # 딥러닝 모델을 활용한 중고상품 분류모델 개발
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
+(제 개인레포에 파이널 프로젝트 파일 등을 다시 정리했습니다)
+
 ### 프로젝트 기간: 6/1 ~ 6/30
 
 ### 함께한 팀원: 이나라 (팀장), 류영주, 임희나, 장하은, 최원빈, 하정현

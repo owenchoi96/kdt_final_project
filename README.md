@@ -3,6 +3,11 @@
 
 ### 프로젝트 기간: 6/1 ~ 6/30
 
+### 함께한 팀원: 이나라 (팀장), 류영주, 임희나, 장하은, 최원빈, 하정현
+
+### 발표자료
+[링크](https://drive.google.com/file/d/1X2TrWvrmMYey0RCPzNO6URM-5iMC_BjP/view?usp=sharing)
+
 ### 프로젝트 우수상 수상
 
 <img src="https://github.com/owenchoi96/templates/assets/123911225/32a35169-44df-4561-9275-028b7f6f2c30" width="200" height="300"/>

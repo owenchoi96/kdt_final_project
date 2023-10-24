@@ -1,4 +1,4 @@
-# kdt_final_project
+# 딥러닝 모델을 활용한 중고상품 분류모델 개발
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
 ### 프로젝트 기간: 6/1 ~ 6/30

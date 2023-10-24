@@ -13,5 +13,6 @@
 ## 진행과정
 <img src="https://github.com/owenchoi96/templates/assets/123911225/5de532d3-7df3-4136-9420-662db6841a98" width="400" height="250"/>
 
-## 아쉬웠던 부분
+## 개인적으로 아쉬웠던 부분 3가지
+
 

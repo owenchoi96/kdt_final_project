@@ -6,7 +6,7 @@
 ### 함께한 팀원: 이나라 (팀장), 류영주, 임희나, 장하은, 최원빈, 하정현
 
 ### 발표자료
-[링크](https://drive.google.com/file/d/1X2TrWvrmMYey0RCPzNO6URM-5iMC_BjP/view?usp=sharing)
+→ [링크](https://drive.google.com/file/d/1X2TrWvrmMYey0RCPzNO6URM-5iMC_BjP/view?usp=sharing)
 
 ### 프로젝트 우수상 수상
 

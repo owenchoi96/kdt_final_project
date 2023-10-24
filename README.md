@@ -7,6 +7,7 @@
 ### 프로젝트 기간: 6/1 ~ 6/30
 
 ### 함께한 팀원: 이나라 (팀장), 류영주, 임희나, 장하은, 최원빈, 하정현
+→ 팀 노션 링크 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">](https://www.notion.so/Final-Project-c05e51833a11418eb27efbc197c9f1da?pvs=4)
 
 ### 발표자료
 → [링크](https://drive.google.com/file/d/1X2TrWvrmMYey0RCPzNO6URM-5iMC_BjP/view?usp=sharing)

@@ -3,7 +3,6 @@
 
 프로젝트 기간: 6/1 ~ 6/30
 
-프로젝트 우수상 수상
 <img src="https://github.com/owenchoi96/templates/assets/123911225/32a35169-44df-4561-9275-028b7f6f2c30" width="100" height="200"/>
 
 ## 프로젝트 목적

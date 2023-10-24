@@ -22,10 +22,7 @@
 ## 진행과정
 <img src="https://github.com/owenchoi96/templates/assets/123911225/5de532d3-7df3-4136-9420-662db6841a98" width="400" height="250"/>
 
-먼저 
-function test() {
-  console.log("notice the blank line before this function?");
-}
+먼저 '''request'''를 활용하여 번개장터와 네이버 쇼핑의 상품명과 이미지 데이터를 크롤링했습니다. 
 
 What's going on
 

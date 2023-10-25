@@ -26,7 +26,7 @@
 
 ## 진행과정
 <p align="center">
-<img src="https://github.com/owenchoi96/templates/assets/123911225/5de532d3-7df3-4136-9420-662db6841a98" width="400" height="250"/>
+<img src="https://github.com/owenchoi96/templates/assets/123911225/18b24f2a-33fe-400c-8ee7-b6f030a4afdc" width="400" height="250"/>
 </p>
 
 1. 먼저 requests 라이브러리를 활용하여 번개장터와 네이버 쇼핑의 상품명과 이미지 데이터를 크롤링한 후 수집한 데이터를 DB에 저장했습니다.
